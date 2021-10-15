@@ -5,4 +5,4 @@ from .views import products
 urlpatterns = [
     path('', products, name='products'),
 ]
-# будем добавлять сюда новые пути для карточек продуктов
+# будем активно добавлять сюда новые пути для карточек продуктов
