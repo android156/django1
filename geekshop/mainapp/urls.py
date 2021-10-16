@@ -3,5 +3,6 @@ from django.urls import path
 from .views import products
 
 urlpatterns = [
-    path('', products),
+    path('', products, name='products'),
 ]
+# будем добавлять сюда новые пути для карточек продуктов
