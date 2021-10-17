@@ -8,6 +8,9 @@ class ProductCategory(models.Model):
         verbose_name='имя',
         max_length=64,
         unique=True)
+    url_name = models.CharField(
+        verbose_name='имя в URL',
+        max_length=12)
     description = models.TextField(
         verbose_name='описание',
         blank=True)
