@@ -1,0 +1,30 @@
+[
+  {
+      "name": "дом",
+      "url_name": "home",
+      "description": "мебель для дома"
+    }
+  ,
+  {
+
+      "name": "офис",
+      "url_name": "office",
+      "description": "мебель для офиса"
+
+  },
+  {
+      "name": "модерн",
+      "url_name": "modern",
+      "description": "мебель в стиле модерн"
+  },
+  {
+      "name": "классика",
+      "url_name": "classic",
+      "description": "класека на удаве"
+  },
+  {
+      "name": "Комоды",
+      "url_name": "chests",
+      "description": ""
+  }
+]
